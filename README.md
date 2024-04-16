@@ -24,10 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-```
-NAME : PANDIDHARAN G R
-REG NO : 212222040111
-```
+
 ```python
 import pandas as pd
 import numpy as np
